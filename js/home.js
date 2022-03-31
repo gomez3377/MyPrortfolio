@@ -1,5 +1,6 @@
 WebFont.load ({
     google: [
-        'Assistant'
+        'Playfair Display',
+        'Poppins'
     ]
 })

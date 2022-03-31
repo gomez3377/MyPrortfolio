@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Portfolio-Blueprint.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="112.03213"
+       y="10.643033"
+       width="29.089769"
+       height="11.129499"
+       id="rect841" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="522.33692"
+     inkscape:cy="545.77376"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1268"
+     inkscape:window-height="906"
+     inkscape:window-x="8"
+     inkscape:window-y="35"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#d5ede7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.433944"
+       id="rect10"
+       width="512.1178"
+       height="330.20697"
+       x="-161.38786"
+       y="-0.85614556" />
+    <rect
+       style="fill:#e6e6e6;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect835"
+       width="30.699976"
+       height="30.729681"
+       x="-148.10425"
+       y="7.7377019" />
+    <text
+       xml:space="preserve"
+       id="text839"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect841);" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.4783px;line-height:1.25;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#292a2e;fill-opacity:1;stroke:none;stroke-width:0.286958;"
+       x="157.06244"
+       y="23.526423"
+       id="text847-6"
+       transform="scale(0.98703987,1.0131303)"
+       inkscape:transform-center-x="42.306355"
+       inkscape:transform-center-y="39.814408"><tspan
+         sodipodi:role="line"
+         x="157.06244"
+         y="23.526423"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.4783px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.286958;fill:#292a2e;fill-opacity:1;"
+         id="tspan849-3">Work</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.49436px;line-height:1.25;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#292a2e;fill-opacity:1;stroke:none;stroke-width:0.237357;"
+       x="200.29161"
+       y="21.921635"
+       id="text847-6-8"
+       transform="scale(0.99568708,1.0043316)"
+       inkscape:transform-center-x="35.299501"
+       inkscape:transform-center-y="32.646081"><tspan
+         sodipodi:role="line"
+         x="200.29161"
+         y="21.921635"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.49436px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.237357;fill:#292a2e;fill-opacity:1;"
+         id="tspan849-3-5">Experience</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3209px;line-height:1.25;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#292a2e;fill-opacity:1;stroke:none;stroke-width:0.283023;"
+       x="279.5954"
+       y="22.673258"
+       id="text847-6-1"
+       transform="scale(0.95139539,1.0510877)"
+       inkscape:transform-center-x="40.219548"
+       inkscape:transform-center-y="40.739735"><tspan
+         sodipodi:role="line"
+         x="279.5954"
+         y="22.673258"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3209px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.283023;fill:#292a2e;fill-opacity:1;"
+         id="tspan849-3-4">Contact Me</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1091px;line-height:1.25;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#292a2e;fill-opacity:1;stroke:none;stroke-width:0.27773;"
+       x="92.226181"
+       y="22.769823"
+       id="text847-6-7"
+       transform="scale(0.95529178,1.0468006)"
+       inkscape:transform-center-x="39.628728"
+       inkscape:transform-center-y="39.814459"><tspan
+         sodipodi:role="line"
+         x="92.226181"
+         y="22.769823"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1091px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#292a2e;stroke-width:0.27773;fill-opacity:1;"
+         id="tspan849-3-49">About Me</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="189.35849"
+       y="-17.736517"
+       id="text971"><tspan
+         sodipodi:role="line"
+         id="tspan969"
+         x="189.35849"
+         y="-17.736517"
+         style="stroke-width:0.264583" /></text>
+    <ellipse
+       style="fill:#292a2e;fill-opacity:1;stroke-width:0.264583"
+       id="path973"
+       cx="271.4873"
+       cy="106.94317"
+       rx="50.260437"
+       ry="49.989708" />
+  </g>
+</svg>

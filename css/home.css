@@ -1,7 +1,10 @@
 body {
     text-align: center;
+    background-color: #f6fffd;
+    color: #292a2e;
     }
 p {
+    color: #77c474;
     font-family: "Poppins", sans-serif;
 }
 h1, h2, h3 {
@@ -15,11 +18,14 @@ img {
 
 
 /*              FOOTER CSS RULES        */
-
+footer {
+    background-color: #292a2e;
+    color: #f6fffd;
+}
 .socialMediaContainer {
 	display: flex;
 	justify-content: space-evenly;
 }
 .socialMediaIcon {
-	width: 10%;
+	width: 50%;
 }

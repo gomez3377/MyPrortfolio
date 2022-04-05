@@ -2,6 +2,8 @@ body {
     text-align: center;
     background-color: #f6fffd;
     color: #292a2e;
+    margin: auto;
+    width: 100%;
     }
 p {
     color: #365e35;
@@ -11,7 +13,7 @@ h1, h2, h3 {
     font-family: "Playfair Display", serif;
 }
 .logo {
-    width: 25%;
+    width: 15%;
     padding: 1rem 0;
 }
 .header-bar {
@@ -20,7 +22,8 @@ h1, h2, h3 {
 }
 
 .nav-button {
-    width: 25%;
+    margin-right: 1rem;
+    width: 15%;
     border: none;
     background-color: #f6fffd;
     cursor: pointer;
@@ -48,6 +51,17 @@ img {
 /*              NAVIGATION BAR          */
 
 
+
+.contactMe {
+    width: 100%;
+}
+
+
+
+
+main  {
+    margin: 2rem;
+}
 /*              FOOTER CSS RULES        */
 footer {
     background-color: #292a2e;
